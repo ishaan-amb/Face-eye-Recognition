@@ -1,2 +1,2 @@
-# inception-machine
-parallel world creator between reality and dreams 
+# Face Recognition
+face can be detect by this. 
